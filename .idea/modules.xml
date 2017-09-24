@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ML/.idea/ML.iml" filepath="$PROJECT_DIR$/../ML/.idea/ML.iml" />
+      <module fileurl="file://E:/nanshan/source/pyswarm-master/.idea/pyswarm-master.iml" filepath="E:/nanshan/source/pyswarm-master/.idea/pyswarm-master.iml" />
+      <module fileurl="file://E:/nanshan/source/pyswarms-master/pyswarms-master/.idea/pyswarms-master.iml" filepath="E:/nanshan/source/pyswarms-master/pyswarms-master/.idea/pyswarms-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python.iml" filepath="$PROJECT_DIR$/.idea/python.iml" />
+    </modules>
+  </component>
+</project>
